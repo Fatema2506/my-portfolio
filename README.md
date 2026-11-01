@@ -29,7 +29,8 @@ I am a Computer Science and Engineering student at Metropolitan University, Sylh
 - **GitHub:** https://github.com/Fatema2506
 - **Facebook:** https://www.facebook.com/share/1EDKrkD3J6/
 
-
+## Live Portfolio
+[Visit My Portfolio](https://fatema2506.github.io/my-portfolio/)
 
 ---
 © 2026 Fatema Akter. All Rights Reserved.
